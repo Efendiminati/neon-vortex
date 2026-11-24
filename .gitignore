@@ -1,0 +1,18 @@
+# Build outputs
+build/
+Bin/
+*.exe
+*.dll
+*.pdb
+*.obj
+*.lib
+
+# Runtime / save files
+neon_vortex_save.json
+nv_selftest_*
+
+# IDE / CMake
+.vs/
+.vscode/
+CMakeUserPresets.json
+compile_commands.json
